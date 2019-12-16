@@ -6,4 +6,5 @@ num=0
 array.each do |num|
   result_array << array [num]**2 
 end 
+result_array 
 end
