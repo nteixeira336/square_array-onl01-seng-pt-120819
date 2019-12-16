@@ -6,7 +6,8 @@ num=0
 array.each do 
   result << array[num]**2 
   num +=1 
-  binding.pry 
+   
 end 
 result
+binding.pry 
 end
