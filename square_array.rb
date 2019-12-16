@@ -3,5 +3,5 @@ def square_array(array)
 result_array= []
 array= [1,2,3]
 num=0 
-array.each do num 
+array.each do |num| 
 end
