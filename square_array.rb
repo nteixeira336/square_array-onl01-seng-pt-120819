@@ -3,7 +3,7 @@ def square_array(array)
 result_array= []
 array= [1,2,3]
 num=0 
-array.each do |num|
+array.each do |num|num**2 
   result_array << array [num]**2 
 end 
 result_array 
