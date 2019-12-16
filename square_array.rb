@@ -1,9 +1,9 @@
 def square_array(array)
   # your code here
-result_array= []
+result= []
 num=0 
 array.each do 
-  result_array << num 
+  result << num 
 end 
 result_array 
 end
